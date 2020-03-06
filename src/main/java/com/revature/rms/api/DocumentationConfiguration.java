@@ -1,4 +1,4 @@
-package com.revature.rms;
+package com.revature.rms.api;
 
 
 import org.springframework.beans.factory.annotation.Autowired;
